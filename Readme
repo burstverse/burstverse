@@ -3,3 +3,5 @@ Burstverse NFT Contract
 https://testnet.blastscan.io/address/0x41e9E8c8989883F43b0101cD0C17A2ffce4D14a8#code
 
 npx hardhat verify --network blast_sepolia 0x41e9E8c8989883F43b0101cD0C17A2ffce4D14a8 
+
+https://bafybeiaqvmxuqpdqctjyk4dme6trbacrpz5fpsquct3b7goojcpdl3wsla.ipfs.nftstorage.link/
